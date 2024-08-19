@@ -1,6 +1,6 @@
 # PseudoSweep Tool Demo 
 
-This is an example repo to demonstrate a use case of PseudoSweep.
+This is an example repo to demonstrate a use case of the PseudoSweep Tool. A video demonstration is available [here](https://youtu.be/5QCsu7MbiXI).
 
 ## Setup
 1. Clone this repo and change into the directory using
